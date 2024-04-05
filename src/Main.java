@@ -1,6 +1,6 @@
-﻿public class Main {
+public class Main {
     public static void main(String[] args) {
-        MainController controller = new MainController();
+        controller.MainController controller = new controller.MainController();
         controller.startApplication();
     }
 }
